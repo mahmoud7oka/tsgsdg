@@ -1,0 +1,23 @@
+{
+  "name": "line-bot-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dbd.js": "^2.2.6",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.2",
+    "express": "^4.17.1",
+    "ms": "^2.1.3",
+    "pro.db": "^3.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
